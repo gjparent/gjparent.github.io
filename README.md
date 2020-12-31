@@ -1,6 +1,6 @@
 
 ## Geneviève J. Parent 
-Bonjour! I'm a research scientist leading the **Laboratory of genomics** at Institut Maurice Lamontagne from the Department of Fisheries and Oceans Canada (DFO). My broad interest is evolutionary biology. I use tools such as those developped to study population genomics, quantitative genetics, transcriptomics, and eDNA to seek how organisms isolate or adapt to various biotic and abiotic factors. As a new research scientist for DFO, I'm focusing on approaches to ease the utilisation of these tools by my colleagues to improve fisheries and biodiversity management.
+Bonjour! I'm a research scientist leading the **Laboratory of genomics** at Institut Maurice Lamontagne from the Department of Fisheries and Oceans Canada (DFO). My broad interest is evolutionary biology. I use population genomics, quantitative genetics, transcriptomics, and eDNA detection methods to understand how organisms isolate or adapt to various biotic and abiotic factors. As a new research scientist for DFO, I'm also simplifying the approaches associated with these fields for my colleagues and DFO clients in order to improve fisheries and biodiversity management.
 
 ### Current research projects
 1. **PANOMICS**: integrating genomics to current and future spatial management of northern shrimp (Pandalus borealis) along the Canadian coast
