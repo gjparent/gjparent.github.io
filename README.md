@@ -16,7 +16,7 @@ Bonjour! I'm a research scientist leading the **Laboratory of genomics** at Inst
 - Grégoire Cortial, technician
 - Léopold Ghinter, technician
 - Jade Larivière, technician
-- Frédérique Paquin, biologist
+- Frédérique Paquin, technician
 - Éric Parent, senior technician
 - Ariane Thérien, technician
 
