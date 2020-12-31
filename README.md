@@ -31,7 +31,7 @@ _External_
 - Piero Calosi, UQAR, Rimouski, Canada [Link](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-biologie-chimie-et-geographie/calosi-piero)
 - Fanny Noisette, ISMER-UQAR, Rimouski, Canada [Link](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/institut-des-sciences-de-la-mer/noisette-fanny)
 - John MacKay, University of Oxford, Oxford, UK [Link](https://www.plants.ox.ac.uk/people/john-mackay)
-- Richard St-Louis, UQAR, Rimouski, Canada [Link](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-biologie-chimie-et-geographie/st-louis-richard)
+- Richard Saint-Louis, UQAR, Rimouski, Canada [Link](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-biologie-chimie-et-geographie/st-louis-richard)
 
 _Internal_ [Link](https://profils-profiles.science.gc.ca/en/search/profiles)
 - Rénald Belley, biologist
