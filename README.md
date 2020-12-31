@@ -9,7 +9,7 @@ Bonjour! I'm a research scientist leading the **Laboratory of genomics** at Inst
 4. Improving spatial survey of wolffish species using environmental DNA (eDNA) in the Gulf of St. Lawrence
 5. Capturing the biodiversity of the Banc-des-Américains (marine protected area) and coastal Gulf of St. Lawrence using environmental DNA (eDNA)
 
-### Current members of the Laboratory of genomics
+### Current team members
 - Claudie Bonnet, biologist
 - Audrey Bourret, scientific researcher in genematics @biodray
 - Marion Chevrinais, scientific researcher in conservation genomics
@@ -20,12 +20,12 @@ Bonjour! I'm a research scientist leading the **Laboratory of genomics** at Inst
 - Éric Parent, senior technician
 - Ariane Thérien, technician
 
-### Current students of the Laboratory of genomics
+### Current students
 - Andre Lucas dos Reis, Phd student
 - Laury-Ann Dumoulin, Master student
 - Loïc Brunner, Bachelor student
 
-### Currect collaborators of the Laboratory of genomics
+### Currect collaborators
 _External_
 - Laura Benestan, Centre d'écologie fonctionnelle et évolutive, Montpellier, France [Link](https://www.researchgate.net/profile/Laura_Benestan)
 - Piero Calosi, UQAR, Rimouski, Canada [Link](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-biologie-chimie-et-geographie/calosi-piero)
