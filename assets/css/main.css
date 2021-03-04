@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f4f4f4;
+		background: #f2f2f2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2325,12 +2325,12 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin: 0 0 2em 0;
+			width: 50%;
 		}
 
 			.image.featured img {
-				width: 100%;
+				width: 50%;
 			}
 
 			@media screen and (max-width: 736px) {
