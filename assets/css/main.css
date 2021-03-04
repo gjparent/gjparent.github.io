@@ -2327,12 +2327,12 @@ input, select, textarea {
 			display: block;
 			margin-left: auto;
   			margin-right: auto;
-			border-radius: 50%;
-			width: 80%;
+			border-radius: 30%;
+			width: 50%;
 		}
 
 			.image.featured img {
-				width: 80%;
+				width: 100%;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -2345,8 +2345,9 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin-left: auto;
+  			margin-right: auto;
+			width: 80%;
 		}
 
 			.image.main img {
